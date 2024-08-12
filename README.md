@@ -1,1 +1,3 @@
-# Clonar
+# Clonar ejercicio 2 
+
+Repositorio que se creo desde **github** y se va a clonar 
